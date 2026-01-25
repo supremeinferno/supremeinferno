@@ -13,7 +13,7 @@
 <br/>
 
 <!-- ✨ ABOUT ME -->
-<h2 align="center">✨ About Me ✨</h2>
+<h2 align="center"> About Me </h2>
 
 <p align="center">
   I like understanding how things work beneath the surface.<br/>
@@ -25,7 +25,7 @@
 <br/>
 
 <!-- ⚡ TECH STACK -->
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <!-- Core Languages -->
