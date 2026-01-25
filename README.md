@@ -3,6 +3,8 @@
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=I’m%20supremeinferno&text2=builder%20of%20systems%20%7C%20student%20developer&width=900&height=150&fontSize=30" />
 </p>
 
+<br/>
+
 <!-- ⌨️ TYPING LINE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&pause=900&color=8B949E&center=true&vCenter=true&width=520&lines=curious+about+systems;learning+by+building;thinking+in+edge+cases" />
