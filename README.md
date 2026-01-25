@@ -101,8 +101,7 @@
 
 </br>
 <!-- 📊 LeetCode Stats -->
-<h2 align="center"><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/1be3fb89-3df8-43bc-aff6-8fd3110dfd3b" />
- LeetCode Stats</h2>
+<h2 align="center">💻 LeetCode Stats</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/garg317?theme=dark&font=Fira%20Code" />
