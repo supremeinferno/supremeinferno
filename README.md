@@ -98,3 +98,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=supremeinferno&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+</br>
+<!-- 📊 LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/garg317?theme=dark&font=Fira%20Code" />
+</p>
+
