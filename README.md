@@ -1,9 +1,7 @@
 <!-- 🌈 RAINBOW HEADER -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=making%20sense%20of%20broken%20systems&width=900&height=140&fontSize=30" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=I’m%20supremeinferno&text2=builder%20of%20systems%20%7C%20student%20developer&width=900&height=150&fontSize=30" />
 </p>
-
-<br/>
 
 <!-- ⌨️ TYPING LINE -->
 <p align="center">
