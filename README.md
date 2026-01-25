@@ -28,14 +28,20 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
+  <!-- Core Languages -->
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
+
+  <!-- Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -43,12 +49,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
+
+  <!-- AI / ML -->
+  <a href="https://www.tensorflow.org/learn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+
+  <!-- Web3 -->
+  <a href="https://ethereum.org/en/developers/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=solidity" />
+  </a>
+
+  <!-- Tools -->
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
 </p>
 
-<br/>
 
 <!-- 🎯 FOCUS BADGES -->
 <p align="center">
