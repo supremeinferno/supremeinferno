@@ -72,21 +72,24 @@
 
 <!-- 🎯 FOCUS BADGES -->
 <p align="center">
-  <a href="https://github.com/supremeinferno?tab=repositories">
+  <a href="https://leetcode.com/u/garg317/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Focus-Problem%20Solving-3b3b3b?style=for-the-badge" />
   </a>
-  <a href="https://github.com/supremeinferno">
-    <img src="https://img.shields.io/badge/Coding-Everyday-1f6feb?style=for-the-badge" />
+
+  <a href="https://github.com/supremeinferno?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Coding-Building%20Projects-1f6feb?style=for-the-badge" />
   </a>
-  <a href="https://developer.mozilla.org/">
+
+  <a href="https://developer.mozilla.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Learning-Always-2ea043?style=for-the-badge" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Coffee">
+
+  <a href="https://en.wikipedia.org/wiki/Coffee" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Powered%20By-Coffee-6f4e37?style=for-the-badge" />
   </a>
 </p>
 
-<br/>
+</br>
 
 <!-- 📊 STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
