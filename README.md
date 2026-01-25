@@ -101,6 +101,8 @@
 
 </br>
 <!-- 📊 LeetCode Stats -->
+<h2 align="center">📊 LeetCode Stats</h2>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/garg317?theme=dark&font=Fira%20Code" />
 </p>
