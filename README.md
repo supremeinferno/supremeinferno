@@ -6,9 +6,8 @@
 <br/>
 <!-- ⌨️ TYPING LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&pause=900&color=C77DFF&center=true&vCenter=true&width=520&lines=curious+about+systems;learning+by+building;thinking+in+edge+cases" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&pause=900&color=39D0D8&center=true&vCenter=true&width=520&lines=curious+about+systems;learning+by+building;thinking+in+edge+cases" />
 </p>
-
 
 <br/>
 
