@@ -28,10 +28,6 @@ Building intelligent systems through machine learning, computer vision, and mode
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supremeinferno&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## About
