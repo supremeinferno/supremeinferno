@@ -1,107 +1,98 @@
-<!-- 🌈 RAINBOW HEADER -->
+<h1 align="center">Pranav Garg</h1>
+
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=I’m%20supremeinferno&text2=builder%20of%20systems%20%7C%20student%20developer&width=900&height=150&fontSize=30" />
+  <b>Machine Learning • Computer Vision • Deep Learning • AI Systems</b>
 </p>
 
-<br/>
-<!-- ⌨️ TYPING LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&pause=900&color=39D0D8&center=true&vCenter=true&width=520&lines=curious+about+systems;learning+by+building;thinking+in+edge+cases" />
+Building intelligent systems through machine learning, computer vision, and modern AI engineering.
 </p>
 
-<br/>
-
-<!-- ✨ ABOUT ME -->
-<h2 align="center"> About Me </h2>
-
 <p align="center">
-  I like understanding how things work beneath the surface.<br/>
-  Most days, you’ll find me experimenting with code, breaking systems,<br/>
-  and putting them back together in a cleaner way.<br/>
-  Still learning, always curious.
-</p>
-
-<br/>
-
-<!-- ⚡ TECH STACK -->
-<h2 align="center"> Tech Stack</h2>
-
-<p align="center">
-  <!-- Core Languages -->
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+  <a href="https://github.com/supremeinferno">
+    <img src="https://img.shields.io/badge/GitHub-supremeinferno-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
+  
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- Web -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-
-  <!-- AI / ML -->
-  <a href="https://www.tensorflow.org/learn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
-
-  <!-- Web3 -->
-  <a href="https://ethereum.org/en/developers/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=solidity" />
-  </a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" />
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav_Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
-<!-- 🎯 FOCUS BADGES -->
 <p align="center">
-  <a href="https://leetcode.com/u/garg317/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Focus-Problem%20Solving-3b3b3b?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/supremeinferno?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Coding-Building%20Projects-1f6feb?style=for-the-badge" />
-  </a>
-
-  <a href="https://developer.mozilla.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Learning-Always-2ea043?style=for-the-badge" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Coffee" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Powered%20By-Coffee-6f4e37?style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=supremeinferno&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-</br>
+---
 
-<!-- 📊 STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=supremeinferno&theme=tokyonight&hide_border=true" height="160"/>
+I enjoy building things that combine software engineering and machine learning.
+<br><br>
+Currently exploring computer vision, deep learning, and agentic AI systems while strengthening my foundations through data structures and algorithms.
+<br><br>
+Most of my learning happens through projects, experiments, and understanding how systems behave under real-world constraints.
 </p>
 
-</br>
-<!-- 📊 LeetCode Stats -->
-<h2 align="center">💻 LeetCode Stats</h2>
+---
+
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/garg317?theme=dark&font=Fira%20Code" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,nextjs,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-XGBoost-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Systems-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-green?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=supremeinferno&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">LeetCode</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/garg317?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+</p>
+
+---
+
+<p align="center">
+<i>Building systems, understanding them deeply, and improving them continuously.</i>
 </p>
