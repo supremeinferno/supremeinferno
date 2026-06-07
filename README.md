@@ -35,6 +35,13 @@ Currently deep into **DSA**, building with **OpenCV & deep learning**, and explo
 
 **stack**
 
+\`\`\`
+languages   →  C++  Python  JavaScript
+ml / cv     →  PyTorch  TensorFlow  OpenCV
+web         →  Next.js  HTML  CSS
+tools       →  Git  Docker  Solidity
+\`\`\`
+
 ---
 
 **github stats**
