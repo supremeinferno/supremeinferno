@@ -140,7 +140,7 @@ Currently exploring deep learning, OpenCV, and modern AI workflows while strengt
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=supremeinferno&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
