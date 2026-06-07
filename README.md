@@ -19,7 +19,7 @@ Building intelligent systems through machine learning, computer vision, and mode
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="www.linkedin.com/in/pranavgarg317-linkedin">
+  <a href="https://www.linkedin.com/in/pranavgarg317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pranav_Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
