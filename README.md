@@ -34,9 +34,10 @@ Building intelligent systems through machine learning, computer vision, and mode
 
 I'm a Computer Science student focused on machine learning, computer vision, and intelligent systems.
 
-Currently building ML applications, experimenting with OpenCV pipelines, training deep learning models, and exploring how modern agentic AI systems reason, plan, and use tools.
+I enjoy building projects, experimenting with new ideas, and understanding how things work beneath the surface from algorithms and models to the systems that power them.
 
-Most of my learning happens through projects, debugging, iteration, and understanding how systems behave under real-world constraints.
+Currently exploring deep learning, OpenCV, and modern AI workflows while strengthening my foundations in software engineering and problem solving.
+
 
 ---
 
