@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Pranav     Garg%20Kaur&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Systems%20%7C%20Applied%20ML%20Research&descAlignY=52&descSize=18&color=0:ff9ad5,50:d9bed1,100:957b98" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Pranav     Garg&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Systems%20%7C%20Applied%20ML%20Research&descAlignY=52&descSize=18&color=0:ff9ad5,50:d9bed1,100:957b98" alt="header"/>
 
   <p>
     <a href="https://github.com/supremeinferno">
