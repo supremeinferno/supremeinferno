@@ -54,7 +54,7 @@ status: always mid-refactor
 <img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=e0aaff&icon_color=c77dff&text_color=ffffff&border_radius=10" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supremeinferno&theme=radical&hide_border=true&background=0d0221&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&border_radius=10" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=supremeinferno&theme=radical&hide_border=true&background=0d0221&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&border_radius=10" width="100%"/>
 </td>
 </tr>
 </table>
