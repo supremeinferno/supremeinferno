@@ -40,6 +40,21 @@ status: always mid-refactor
 
 <div align="center">
 
+### 🐍 contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg" width="100%">
+</picture>
+
+<sub>eats my contribution graph, one commit at a time — auto-updates daily</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### 📡 activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=redical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
@@ -58,6 +73,24 @@ status: always mid-refactor
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=supremeinferno&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=e0aaff&text_color=ffffff&border_radius=10" width="48%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=supremeinferno&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+
+</div>
 
 <br><br>
 
