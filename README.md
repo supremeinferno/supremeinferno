@@ -1,77 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=PRANAV%20GARG&fontSize=46&fontColor=39ff14&fontAlignY=40&desc=ml%20engineer%20//%20systems%20builder&descAlignY=62&descSize=16&descColor=00d9ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20GARG&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=full-stack%20ML%20%2F%20AI%20engineer%20in%20training&descAlignY=65&descSize=17&descColor=e0aaff&animation=twinkle"/>
 
-<a href="https://github.com/supremeinferno">
-  <img src="https://readme-typing-svg.demolab.com/?lines=whoami;4th-yr+CS+%40+Thapar+Institute;building+agentic+AI+systems;ML+%2F+CV+%2F+Deep+Learning;%3E+status%3A+shipping&font=Fira+Code&center=true&width=600&height=50&color=39FF14&vCenter=true&size=22&background=0D1117&pause=1800" alt="typing-svg" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+building+things+that+think;%3E+computer+vision+%C2%B7+deep+learning+%C2%B7+agentic+AI;%3E+3rd-yr+CS+undergrad;%3E+currently+shipping+3+apps+at+once&font=JetBrains+Mono&center=true&width=650&height=45&color=E0AAFF&vCenter=true&size=20&pause=1600&background=00000000" />
 
 </div>
 
 <br>
 
-```bash
-supremeinferno@thapar:~$ cat about.txt
-```
-
-```
-> final-year CS student, currently deep in ML / computer vision / agentic AI
-> I like taking things apart — models, pipelines, systems — to see what
-  actually makes them work, then rebuilding them better
-> right now: shipping full-stack AI apps end to end — backend, model,
-  frontend, deploy. no half-finished repos.
-> outside of code: competitive programming, breaking my own UI decisions
-  at 2am and fixing them by 3
-```
-
-<br>
-
-```bash
-supremeinferno@thapar:~$ ls -la ./projects
-```
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🧠 Nexus AI
-**FastAPI · React · Agent Pipelines**
+### ⚡ about me
 
-Agentic AI system — Python backend running an agent/tool pipeline, React frontend on top. Built the auth layer (JWT, OTP-based reset) from scratch and wired the whole app behind it. Currently absorbing CODEX's document-intelligence engine into it.
+I'm a CS undergrad who'd rather rebuild something from scratch than read the docs twice. Most of what I do sits somewhere between **machine learning, computer vision, and full-stack engineering** — training a model is only half the job, the other half is putting it in front of someone in an app that doesn't feel like a school project.
 
-`python` `fastapi` `react` `vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 CODEX
-**Streamlit · RAG · Document Intelligence**
-
-Chat with your documents — PDF/image upload into a Chroma vector store, RAG over it via Mistral. Full auth system, admin dashboard, and a manuscript-inspired UI with glassmorphism panels. Being rebuilt into Nexus AI.
-
-`streamlit` `chroma` `rag` `mistral`
+Right now I'm juggling an agentic AI system, a RAG-based document tool, and a couple of smaller ML-powered apps — all end to end, model to deploy.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 🎬 Movie Recommender
-**FastAPI · Deployed on Render**
+### 🎯 focus
 
-Content-driven movie recommender with an Apple TV+-inspired dark cinematic UI — near-black background, red accents, ghost buttons. Debugged a nasty routing race condition down to a URL-hydration flag.
-
-`fastapi` `render` `recommender-systems`
-
-</td>
-<td width="50%" valign="top">
-
-### ⌨️ Next-Word Prediction
-**LSTM · Streamlit**
-
-An LSTM language model wrapped in a glassmorphism Streamlit UI. Small project, but the kind where you learn the sequence-modeling fundamentals by actually building the interface around the model, not just the notebook.
-
-`tensorflow` `lstm` `nlp`
+```yaml
+role: CS undergrad, 3rd year
+domain: ML / CV / Agentic AI
+mode: building > watching tutorials
+current_obsession: making agents
+                    actually useful
+status: always mid-refactor
+```
 
 </td>
 </tr>
@@ -79,35 +38,93 @@ An LSTM language model wrapped in a glassmorphism Streamlit UI. Small project, b
 
 <br>
 
-```bash
-supremeinferno@thapar:~$ ./run_stats.sh
-```
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supremeinferno&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14" height="165"/>
+### 📡 activity
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00D9FF&point=39FF14" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=redical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
 
 </div>
 
 <br>
 
-```bash
-supremeinferno@thapar:~$ echo $CONTACT
-```
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=e0aaff&icon_color=c77dff&text_color=ffffff&border_radius=10" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supremeinferno&theme=radical&hide_border=true&background=0d0221&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&border_radius=10" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br><br>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-supremeinferno-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/supremeinferno)
-[![LinkedIn](https://img.shields.io/badge/-pranavgarg317-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/pranavgarg317)
-[![Email](https://img.shields.io/badge/-317madhavgarg-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131)](mailto:317madhavgarg@gmail.com)
+## 🛸 project showcase
+
+<sub>a few things I've actually shipped, not just started</sub>
+
+</div>
 
 <br>
 
-<sub><i>build. break. learn. repeat.</i></sub>
+<table width="100%">
+<tr>
+<td width="8%" align="center"><h1>🧠</h1></td>
+<td width="92%">
+
+**Nexus AI** — *FastAPI · React · Agent Pipelines*
+<br>An agentic AI system with a real agent/tool pipeline on the backend and a React frontend on top. Built the entire auth layer from scratch — JWT sessions, OTP-based password reset — and it's currently absorbing a second project's document-intelligence engine into it.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>📄</h1></td>
+<td width="92%">
+
+**CODEX** — *Streamlit · RAG · Chroma · Mistral*
+<br>Upload a PDF or image and chat with it — real RAG over a Chroma vector store, powered by Mistral. Full auth system, an admin dashboard, and a manuscript-style UI with glassmorphism panels I didn't stop tweaking for a week.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🎬</h1></td>
+<td width="92%">
+
+**Movie Recommender** — *FastAPI · Deployed on Render*
+<br>A recommender app with an Apple TV+-inspired dark cinematic UI — near-black, red accents, ghost buttons. Chased down a genuinely nasty routing race condition down to a single URL-hydration flag.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>⌨️</h1></td>
+<td width="92%">
+
+**Next-Word Prediction** — *LSTM · TensorFlow · Streamlit*
+<br>An LSTM language model wrapped in a glassmorphism UI — small in scope, but where the sequence-modeling fundamentals actually clicked because I had to build the interface around the model, not just the notebook.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📫 reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-supremeinferno-0d0221?style=for-the-badge&logo=github&logoColor=e0aaff)](https://github.com/supremeinferno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavgarg317-0d0221?style=for-the-badge&logo=linkedin&logoColor=c77dff)](https://linkedin.com/in/pranavgarg317)
+[![Email](https://img.shields.io/badge/Email-317madhavgarg-0d0221?style=for-the-badge&logo=gmail&logoColor=e0aaff)](mailto:317madhavgarg@gmail.com)
+
+<br>
+
+<sub><i>this profile gets refactored more than my actual code</i></sub>
 
 </div>
