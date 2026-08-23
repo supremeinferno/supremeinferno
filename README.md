@@ -1,158 +1,113 @@
-<h1 align="center">Pranav Garg</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Machine Learning • Computer Vision • Deep Learning • AI Systems</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=PRANAV%20GARG&fontSize=46&fontColor=39ff14&fontAlignY=40&desc=ml%20engineer%20//%20systems%20builder&descAlignY=62&descSize=16&descColor=00d9ff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-Building intelligent systems through machine learning, computer vision, and modern AI engineering.
-</p>
+<a href="https://github.com/supremeinferno">
+  <img src="https://readme-typing-svg.demolab.com/?lines=whoami;4th-yr+CS+%40+Thapar+Institute;building+agentic+AI+systems;ML+%2F+CV+%2F+Deep+Learning;%3E+status%3A+shipping&font=Fira+Code&center=true&width=600&height=50&color=39FF14&vCenter=true&size=22&background=0D1117&pause=1800" alt="typing-svg" />
+</a>
+
+</div>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/supremeinferno" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-supremeinferno-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+```bash
+supremeinferno@thapar:~$ cat about.txt
+```
 
-  <a href="mailto:317madhavgarg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+```
+> final-year CS student, currently deep in ML / computer vision / agentic AI
+> I like taking things apart — models, pipelines, systems — to see what
+  actually makes them work, then rebuilding them better
+> right now: shipping full-stack AI apps end to end — backend, model,
+  frontend, deploy. no half-finished repos.
+> outside of code: competitive programming, breaking my own UI decisions
+  at 2am and fixing them by 3
+```
 
-  <a href="https://www.linkedin.com/in/pranavgarg317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranav_Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="https://leetcode.com/u/garg317/">
-    <img src="https://img.shields.io/badge/LeetCode-garg317-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+```bash
+supremeinferno@thapar:~$ ls -la ./projects
+```
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## About
+### 🧠 Nexus AI
+**FastAPI · React · Agent Pipelines**
 
-I'm a Computer Science student focused on machine learning, computer vision, and intelligent systems.
+Agentic AI system — Python backend running an agent/tool pipeline, React frontend on top. Built the auth layer (JWT, OTP-based reset) from scratch and wired the whole app behind it. Currently absorbing CODEX's document-intelligence engine into it.
 
-I enjoy building projects, experimenting with new ideas, and understanding how things work beneath the surface from algorithms and models to the systems that power them.
+`python` `fastapi` `react` `vercel`
 
-Currently exploring deep learning, OpenCV, and modern AI workflows while strengthening my foundations in software engineering and problem solving.
+</td>
+<td width="50%" valign="top">
 
+### 📄 CODEX
+**Streamlit · RAG · Document Intelligence**
 
----
+Chat with your documents — PDF/image upload into a Chroma vector store, RAG over it via Mistral. Full auth system, admin dashboard, and a manuscript-inspired UI with glassmorphism panels. Being rebuilt into Nexus AI.
 
-## Tech Stack
+`streamlit` `chroma` `rag` `mistral`
 
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
+### 🎬 Movie Recommender
+**FastAPI · Deployed on Render**
 
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" />
-</a>
+Content-driven movie recommender with an Apple TV+-inspired dark cinematic UI — near-black background, red accents, ghost buttons. Debugged a nasty routing race condition down to a URL-hydration flag.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" />
-</a>
+`fastapi` `render` `recommender-systems`
 
-<a href="https://pytorch.org/">
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://www.tensorflow.org/">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</a>
+### ⌨️ Next-Word Prediction
+**LSTM · Streamlit**
 
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" />
-</a>
+An LSTM language model wrapped in a glassmorphism Streamlit UI. Small project, but the kind where you learn the sequence-modeling fundamentals by actually building the interface around the model, not just the notebook.
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
+`tensorflow` `lstm` `nlp`
 
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" />
-</a>
+</td>
+</tr>
+</table>
 
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" />
-</a>
+<br>
 
-</p>
+```bash
+supremeinferno@thapar:~$ ./run_stats.sh
+```
 
-<p align="center">
+<div align="center">
 
-<a href="https://opencv.org/">
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=supremeinferno&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supremeinferno&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14" height="165"/>
 
-<a href="https://scikit-learn.org/">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://xgboost.readthedocs.io/">
-<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00D9FF&point=39FF14" width="100%"/>
 
-<a href="https://pandas.pydata.org/">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://numpy.org/">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</a>
+<br>
 
-</p>
+```bash
+supremeinferno@thapar:~$ echo $CONTACT
+```
 
----
+<div align="center">
 
-## Current Focus
+[![GitHub](https://img.shields.io/badge/-supremeinferno-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/supremeinferno)
+[![LinkedIn](https://img.shields.io/badge/-pranavgarg317-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/pranavgarg317)
+[![Email](https://img.shields.io/badge/-317madhavgarg-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131)](mailto:317madhavgarg@gmail.com)
 
-<p align="center">
+<br>
 
-<a href="https://opencv.org/">
-<img src="https://img.shields.io/badge/Computer_Vision-OpenCV-blue?style=for-the-badge"/>
-</a>
+<sub><i>build. break. learn. repeat.</i></sub>
 
-<a href="https://pytorch.org/">
-<img src="https://img.shields.io/badge/Deep_Learning-PyTorch-red?style=for-the-badge"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://img.shields.io/badge/Machine_Learning-XGBoost-orange?style=for-the-badge"/>
-</a>
-
-<a href="https://python.langchain.com/">
-<img src="https://img.shields.io/badge/Agentic_AI-Systems-purple?style=for-the-badge"/>
-</a>
-
-<a href="https://leetcode.com/u/garg317/">
-<img src="https://img.shields.io/badge/DSA-Problem_Solving-green?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=supremeinferno&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/garg317?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
-</p>
-
----
-
-<p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
-</p>
+</div>
