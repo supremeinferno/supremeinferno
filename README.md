@@ -57,7 +57,7 @@ status: always mid-refactor
 
 ### 📡 activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=redical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=radical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
 
 </div>
 
@@ -88,7 +88,7 @@ status: always mid-refactor
 
 ### 🏆 trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=supremeinferno&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=supremeinferno&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 
 </div>
 
