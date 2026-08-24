@@ -88,7 +88,7 @@ status: always mid-refactor
 
 ### 🏆 trophies
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=supremeinferno&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=supremeinferno&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 
 </div>
 
