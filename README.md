@@ -86,16 +86,6 @@ status: always mid-refactor
 
 <div align="center">
 
-### 🏆 trophies
-
-<img src="https://github-trophies.vercel.app/?username=supremeinferno&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
 ## 🛸 project showcase
 
 <sub>a few things I've actually shipped, not just started</sub>
