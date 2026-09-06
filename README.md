@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20GARG&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=full-stack%20ML%20%2F%20AI%20engineer%20in%20training&descAlignY=65&descSize=17&descColor=e0aaff&animation=twinkle"/>
+[<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20GARG&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=full-stack%20ML%20%2F%20AI%20engineer%20in%20training&descAlignY=65&descSize=17&descColor=e0aaff&animation=twinkle"/>](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20GARG&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=full-stack%20ML%20%2F%20AI%20engineer%20in%20training&descAlignY=65&descSize=17&descColor=e0aaff&animation=twinkling)
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%3E+building+things+that+think;%3E+computer+vision+%C2%B7+deep+learning+%C2%B7+agentic+AI;%3E+3rd-yr+CS+undergrad;%3E+currently+shipping+3+apps+at+once&font=JetBrains+Mono&center=true&width=650&height=45&color=E0AAFF&vCenter=true&size=20&pause=1600&background=00000000" />
 
