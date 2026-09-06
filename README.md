@@ -12,7 +12,7 @@
 <tr>
 <td width="38%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/assets/profile-ascii.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/profile-ascii.svg" width="100%"/>
 
 </td>
 <td width="62%" valign="top">
