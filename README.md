@@ -59,7 +59,11 @@ status: always mid-refactor
 
 ### 📡 activity
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=radical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
+
 </div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -107,7 +111,7 @@ status: always mid-refactor
 <td width="8%" align="center"><h1>📄</h1></td>
 <td width="92%">
 
-**CODEX** — *Streamlit · RAG · Chroma · Mistral*
+**CODEX** — *Python · RAG · Chroma · Mistral*
 <br>Upload a PDF or image and chat with it — real RAG over a Chroma vector store, powered by Mistral. Full auth system, an admin dashboard, and a manuscript-style UI with glassmorphism panels I didn't stop tweaking for a week.
 
 </td>
@@ -127,8 +131,38 @@ status: always mid-refactor
 <td width="8%" align="center"><h1>⌨️</h1></td>
 <td width="92%">
 
-**Next-Word Prediction** — *LSTM · TensorFlow · Streamlit*
+**Next-Word Prediction** — *LSTM · TensorFlow*
 <br>An LSTM language model wrapped in a glassmorphism UI — small in scope, but where the sequence-modeling fundamentals actually clicked because I had to build the interface around the model, not just the notebook.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🫀</h1></td>
+<td width="92%">
+
+**Swasya** — *Python · scikit-learn · Plotly* · [live demo](https://swasya.vercel.app)
+<br>Heart disease risk assessment using Support Vector Classification, with interactive Plotly visualizations for data-driven insights.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🎭</h1></td>
+<td width="92%">
+
+**Emotion-Aware Object Detection** — *YOLOv8 · DeepFace · OpenCV*
+<br>A real-time pipeline combining YOLOv8 for person detection and DeepFace for emotion recognition — classifies human emotions from webcam/video input with color-coded HUD overlays per emotion class.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🌐</h1></td>
+<td width="92%">
+
+**Codex Neural** — *Full-stack · Backend + Frontend* · [live demo](https://codex-neural.vercel.app)
+<br>A full-stack build split cleanly into backend and frontend services — still early days, actively evolving.
 
 </td>
 </tr>
