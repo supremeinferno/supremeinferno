@@ -10,16 +10,18 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="38%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/assets/profile-ascii.svg" width="100%"/>
+
+</td>
+<td width="62%" valign="top">
 
 ### ⚡ about me
 
 I'm a CS undergrad who'd rather rebuild something from scratch than read the docs twice. Most of what I do sits somewhere between **machine learning, computer vision, and full-stack engineering** — training a model is only half the job, the other half is putting it in front of someone in an app that doesn't feel like a school project.
 
 Right now I'm juggling an agentic AI system, a RAG-based document tool, and a couple of smaller ML-powered apps — all end to end, model to deploy.
-
-</td>
-<td width="40%" valign="top">
 
 ### 🎯 focus
 
