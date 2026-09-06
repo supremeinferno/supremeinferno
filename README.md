@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="38%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
 <img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/profile-ascii.svg" width="100%"/>
 
