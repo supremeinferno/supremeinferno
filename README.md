@@ -142,6 +142,4 @@ status: always mid-refactor
 
 <br>
 
-<sub><i>this profile gets refactored more than my actual code</i></sub>
-
 </div>
