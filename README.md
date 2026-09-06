@@ -59,11 +59,7 @@ status: always mid-refactor
 
 ### 📡 activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=radical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
-
 </div>
-
-<br>
 
 <table width="100%">
 <tr>
@@ -108,36 +104,6 @@ status: always mid-refactor
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
-<td width="8%" align="center"><h1>📄</h1></td>
-<td width="92%">
-
-**CODEX** — *Python · RAG · Chroma · Mistral*
-<br>Upload a PDF or image and chat with it — real RAG over a Chroma vector store, powered by Mistral. Full auth system, an admin dashboard, and a manuscript-style UI with glassmorphism panels I didn't stop tweaking for a week.
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="8%" align="center"><h1>🎬</h1></td>
-<td width="92%">
-
-**Movie Recommender** — *FastAPI · Deployed on Render*
-<br>A recommender app with an Apple TV+-inspired dark cinematic UI — near-black, red accents, ghost buttons. Chased down a genuinely nasty routing race condition down to a single URL-hydration flag.
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="8%" align="center"><h1>⌨️</h1></td>
-<td width="92%">
-
-**Next-Word Prediction** — *LSTM · TensorFlow*
-<br>An LSTM language model wrapped in a glassmorphism UI — small in scope, but where the sequence-modeling fundamentals actually clicked because I had to build the interface around the model, not just the notebook.
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
 <td width="8%" align="center"><h1>🫀</h1></td>
 <td width="92%">
 
@@ -166,11 +132,17 @@ status: always mid-refactor
 
 </td>
 </tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🎬</h1></td>
+<td width="92%">
+
+**Movie Recommender** — *FastAPI · Deployed on Render*
+<br>A recommender app with an Apple TV+-inspired dark cinematic UI — near-black, red accents, ghost buttons. Chased down a genuinely nasty routing race condition down to a single URL-hydration flag.
+
+</td>
+</tr>
 </table>
-
-<br>
-
-<div align="center">
 
 ### 📫 reach me
 
