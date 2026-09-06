@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="38%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
 <img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/profile-ascii.svg" width="100%"/>
 
@@ -59,11 +59,7 @@ status: always mid-refactor
 
 ### 📡 activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=radical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
-
 </div>
-
-<br>
 
 <table width="100%">
 <tr>
