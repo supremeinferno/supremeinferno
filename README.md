@@ -59,8 +59,6 @@ status: always mid-refactor
 
 ### 📡 activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremeinferno&theme=radical&hide_border=true&bg_color=0d0221&color=e0aaff&line=c77dff&point=ffffff&area=true" width="100%"/>
-
 </div>
 
 <br>
