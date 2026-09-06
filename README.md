@@ -61,8 +61,6 @@ status: always mid-refactor
 
 </div>
 
-<br>
-
 <table width="100%">
 <tr>
 <td width="50%">
