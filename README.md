@@ -94,16 +94,6 @@ status: always mid-refactor
 
 <table width="100%">
 <tr>
-<td width="8%" align="center"><h1>🧠</h1></td>
-<td width="92%">
-
-**Nexus AI** — *FastAPI · React · Agent Pipelines*
-<br>An agentic AI system with a real agent/tool pipeline on the backend and a React frontend on top. Built the entire auth layer from scratch — JWT sessions, OTP-based password reset — and it's currently absorbing a second project's document-intelligence engine into it.
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
 <td width="8%" align="center"><h1>🫀</h1></td>
 <td width="92%">
 
