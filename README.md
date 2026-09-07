@@ -66,6 +66,7 @@ status: always mid-refactor
 <td width="50%">
 <img src="https://github-stats-extended.vercel.app/api?username=supremeinferno&show_icons=true&show=prs_merged&theme=radical&hide_border=true&bg_color=0d0221&title_color=e0aaff&icon_color=c77dff&text_color=ffffff&border_radius=10" width="100%"/>
 </td>
+<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=supremeinferno&theme=radical&hide_border=true&background=0d0221&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&border_radius=10&v=2" width="100%"/>
 </td>
 </tr>
