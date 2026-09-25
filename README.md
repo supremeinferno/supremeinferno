@@ -38,11 +38,7 @@ status: always mid-refactor
 </tr>
 </table>
 
-<br>
-
 <div align="center">
-
-### 🐍 contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg">
