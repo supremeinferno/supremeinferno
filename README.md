@@ -17,18 +17,18 @@
 </td>
 <td width="62%" valign="top">
 
-### ⚡ about me
+### about me
 
-I'm a CS undergrad who'd rather rebuild something from scratch than read the docs twice. Most of what I do sits somewhere between **machine learning, computer vision, and full-stack engineering** — training a model is only half the job, the other half is putting it in front of someone in an app that doesn't feel like a school project.
+I'm a CS undergrad exploring machine learning, computer vision, and full-stack development. I learn best by building things myself — sometimes that means starting from scratch, breaking something, and spending way too long figuring out what went wrong.
+Most of my projects are around AI/ML, from models and RAG systems to the applications built around them. I'm interested in the whole process, not just getting a model to work, but making something usable out of it.
+Currently learning, building, and figuring things out as I go.
 
-Right now I'm juggling an agentic AI system, a RAG-based document tool, and a couple of smaller ML-powered apps — all end to end, model to deploy.
-
-### 🎯 focus
+### focus
 
 ```yaml
 role: CS undergrad, 3rd year
 domain: ML / CV / Agentic AI
-mode: building > watching tutorials
+mode: building > theorising
 current_obsession: making agents
                     actually useful
 status: always mid-refactor
