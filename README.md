@@ -1,61 +1,141 @@
-<table>
+<div align="center">
+
+[<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20GARG&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=full-stack%20ML%20%2F%20AI%20engineer%20in%20training&descAlignY=65&descSize=17&descColor=e0aaff&animation=twinkle"/>](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20GARG&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=full-stack%20ML%20%2F%20AI%20engineer%20in%20training&descAlignY=65&descSize=17&descColor=e0aaff&animation=twinkling)
+
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+building+things+that+think;%3E+computer+vision+%C2%B7+deep+learning+%C2%B7+agentic+AI;%3E+3rd-yr+CS+undergrad;%3E+currently+shipping+3+apps+at+once&font=JetBrains+Mono&center=true&width=650&height=45&color=E0AAFF&vCenter=true&size=20&pause=1600&background=00000000" />
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
-<td width="40%" valign="middle">
-<img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/profile-ascii.svg" width="100%" alt="pranav garg"/>
+<td width="38%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/main/profile-ascii.svg" width="100%"/>
+
 </td>
-<td width="60%" valign="middle">
+<td width="62%" valign="top">
 
-## pranav garg
+### about me
 
-`ml` · `computer vision` · `systems in go`
+I'm a CS undergrad exploring machine learning, computer vision, and full-stack development. I learn best by building things myself — sometimes that means starting from scratch, breaking something, and spending way too long figuring out what went wrong.
+Most of my projects are around AI/ML, from models and RAG systems to the applications built around them. I'm interested in the whole process, not just getting a model to work, but making something usable out of it.
+Currently learning, building, and figuring things out as I go.
 
-cs undergrad, 3rd year. i build ml systems and the software around them: rag, multi-agent pipelines, computer vision. lately i've been writing go, mostly for things in orbit.
+### focus
 
-i learn by building things from scratch, breaking them, and working out why.
-
-**currently:** screening satellite close approaches on one laptop.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-pranavgarg317-161b22?style=flat-square&labelColor=30363d)](https://linkedin.com/in/pranavgarg317) [![Email](https://img.shields.io/badge/email-317madhavgarg-161b22?style=flat-square&labelColor=30363d)](mailto:317madhavgarg@gmail.com)
+```yaml
+role: CS undergrad, 3rd year
+domain: ML / CV / Agentic AI
+mode: building > theorising
+current_obsession: making agents
+                    actually useful
+status: always mid-refactor
+```
 
 </td>
 </tr>
 </table>
 
-### featured
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://supremeinferno.github.io/orbitscreen/"><img src="https://raw.githubusercontent.com/supremeinferno/orbitscreen/main/docs/img/tracker-live.jpg" width="100%" alt="orbitscreen live tracker"/></a>
-<br>
-<a href="https://github.com/supremeinferno/orbitscreen"><b>orbitscreen</b></a> · <a href="https://supremeinferno.github.io/orbitscreen/">live ↗</a>
-<br>
-<sub>every satellite in orbit, live, and the close approaches between them. sgp4 written from scratch in go, validated against celestrak.</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://supremeinferno.github.io/satnogs-pipeline/"><img src="https://raw.githubusercontent.com/supremeinferno/satnogs-pipeline/main/docs/img/status-page.jpg" width="100%" alt="satnogs-pipeline status page"/></a>
-<br>
-<a href="https://github.com/supremeinferno/satnogs-pipeline"><b>satnogs-pipeline</b></a> · <a href="https://supremeinferno.github.io/satnogs-pipeline/">live ↗</a>
-<br>
-<sub>checks small satellites' battery health from volunteer radio data, against sunlight and the earth's shadow.</sub>
-</td>
-</tr>
-</table>
-
-### more projects
-
-- [**morrow**](https://github.com/supremeinferno/Morrow) · meeting recordings to summaries, decisions and action items, with a chat grounded in the transcript. [live ↗](https://trymorrow.vercel.app)
-- [**codex**](https://github.com/supremeinferno/codex-neural) · multi-agent research assistant that writes cited reports. [live ↗](https://codex-neural.vercel.app)
-- [**rag-vision-assistant**](https://github.com/supremeinferno/RAG-Vision-Assistant) · multimodal rag over pdfs and images. [live ↗](https://supremeinferno-rag-vision-assistant.streamlit.app)
-- [**emotion-detection**](https://github.com/supremeinferno/emotion-detection-opencv) · real-time emotion recognition with yolov8 and deepface.
-
-### stack
-
-<img src="https://skillicons.dev/icons?i=py,go,rust,ts,react,fastapi,pytorch,sklearn,opencv,postgres,docker,kubernetes&perline=12" height="40" alt="python, go, rust, typescript, react, fastapi, pytorch, scikit-learn, opencv, postgres, docker, kubernetes"/>
-
-<br>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake.svg" width="100%">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg" width="100%">
 </picture>
+
+<sub>eats my contribution graph, one commit at a time — auto-updates daily</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📡 activity
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=supremeinferno&show_icons=true&show=prs_merged&theme=radical&hide_border=true&bg_color=0d0221&title_color=e0aaff&icon_color=c77dff&text_color=ffffff&border_radius=10" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com/?user=supremeinferno&theme=radical&hide_border=true&background=0d0221&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&border_radius=10&v=2" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=supremeinferno&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=e0aaff&text_color=ffffff&border_radius=10" width="48%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🛸 project showcase
+
+<sub>a few things I've actually shipped, not just started</sub>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="8%" align="center"><h1>🫀</h1></td>
+<td width="92%">
+
+**Swasya** — *Python · scikit-learn · Plotly* · [live demo](https://swasya.vercel.app)
+<br>Heart disease risk assessment using Support Vector Classification, with interactive Plotly visualizations for data-driven insights.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🎭</h1></td>
+<td width="92%">
+
+**Emotion-Aware Object Detection** — *YOLOv8 · DeepFace · OpenCV*
+<br>A real-time pipeline combining YOLOv8 for person detection and DeepFace for emotion recognition — classifies human emotions from webcam/video input with color-coded HUD overlays per emotion class.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🌐</h1></td>
+<td width="92%">
+
+**Codex Neural** — *Full-stack · Backend + Frontend* · [live demo](https://codex-neural.vercel.app)
+<br>A full-stack build split cleanly into backend and frontend services — still early days, actively evolving.
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="8%" align="center"><h1>🎬</h1></td>
+<td width="92%">
+
+**Movie Recommender** — *FastAPI · Deployed on Render*
+<br>A recommender app with an Apple TV+-inspired dark cinematic UI — near-black, red accents, ghost buttons. Chased down a genuinely nasty routing race condition down to a single URL-hydration flag.
+
+</td>
+</tr>
+</table>
+
+### 📫 reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-supremeinferno-0d0221?style=for-the-badge&logo=github&logoColor=e0aaff)](https://github.com/supremeinferno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavgarg317-0d0221?style=for-the-badge&logo=linkedin&logoColor=c77dff)](https://linkedin.com/in/pranavgarg317)
+[![Email](https://img.shields.io/badge/Email-317madhavgarg-0d0221?style=for-the-badge&logo=gmail&logoColor=e0aaff)](mailto:317madhavgarg@gmail.com)
+
+<br>
+
+</div>
