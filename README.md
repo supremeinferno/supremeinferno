@@ -90,50 +90,58 @@ status: always mid-refactor
 
 <table width="100%">
 <tr>
-<td width="8%" align="center"><h1>🫀</h1></td>
+<td width="8%" align="center"><h1>🛰️</h1></td>
 <td width="92%">
 
-**Swasya** — *Python · scikit-learn · Plotly* · [live demo](https://swasya.vercel.app)
-<br>Heart disease risk assessment using Support Vector Classification, with interactive Plotly visualizations for data-driven insights.
+**[orbitscreen](https://github.com/supremeinferno/orbitscreen)** — *Go · WebAssembly · three.js* · [live demo](https://supremeinferno.github.io/orbitscreen/)
+<br>Every satellite in orbit (~21k objects), moving live on a 3D Earth, plus every close approach between them over the next 7 days. SGP4 written from scratch in Go and validated against CelesTrak SOCRATES.
 
 </td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
-<td width="8%" align="center"><h1>🎭</h1></td>
+<td width="8%" align="center"><h1>📡</h1></td>
 <td width="92%">
 
-**Emotion-Aware Object Detection** — *YOLOv8 · DeepFace · OpenCV*
-<br>A real-time pipeline combining YOLOv8 for person detection and DeepFace for emotion recognition — classifies human emotions from webcam/video input with color-coded HUD overlays per emotion class.
+**[satnogs-pipeline](https://github.com/supremeinferno/satnogs-pipeline)** — *Go · RabbitMQ · PostgreSQL · Kubernetes* · [live demo](https://supremeinferno.github.io/satnogs-pipeline/)
+<br>Are small satellites' batteries OK? Decodes volunteer radio telemetry from SatNOGS and checks every reading against sunlight and the Earth's shadow, on a live 3D status page.
 
 </td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
-<td width="8%" align="center"><h1>🌐</h1></td>
+<td width="8%" align="center"><h1>🎙️</h1></td>
 <td width="92%">
 
-**Codex Neural** — *Full-stack · Backend + Frontend* · [live demo](https://codex-neural.vercel.app)
-<br>A full-stack build split cleanly into backend and frontend services — still early days, actively evolving.
+**[Morrow](https://github.com/supremeinferno/Morrow)** — *Whisper · Groq · FastAPI · React* · [live demo](https://trymorrow.vercel.app)
+<br>AI meeting assistant: upload a recording and get the summary, decisions, action items and open questions, then chat with the meeting. Answers only from what was actually said.
 
 </td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
-<td width="8%" align="center"><h1>🎬</h1></td>
+<td width="8%" align="center"><h1>🧠</h1></td>
 <td width="92%">
 
-**Movie Recommender** — *FastAPI · Deployed on Render*
-<br>A recommender app with an Apple TV+-inspired dark cinematic UI — near-black, red accents, ghost buttons. Chased down a genuinely nasty routing race condition down to a single URL-hydration flag.
+**[CODEX](https://github.com/supremeinferno/codex-neural)** — *LangChain · Tavily · FastAPI · React* · [live demo](https://codex-neural.vercel.app)
+<br>Multi-agent research assistant: a search agent finds sources and a writer agent turns them into a cited report. Also has a PDF Q&A mode that answers with page numbers.
 
 </td>
 </tr>
 </table>
 
-### 📫 reach me
+<br>
+
+<div align="center">
+
+## 📫 reach me
+
+<sub>always happy to talk ML, agents, or satellites</sub>
+
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-supremeinferno-0d0221?style=for-the-badge&logo=github&logoColor=e0aaff)](https://github.com/supremeinferno)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavgarg317-0d0221?style=for-the-badge&logo=linkedin&logoColor=c77dff)](https://linkedin.com/in/pranavgarg317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavgarg317-0d0221?style=for-the-badge)](https://linkedin.com/in/pranavgarg317)
 [![Email](https://img.shields.io/badge/Email-317madhavgarg-0d0221?style=for-the-badge&logo=gmail&logoColor=e0aaff)](mailto:317madhavgarg@gmail.com)
 
 <br>
