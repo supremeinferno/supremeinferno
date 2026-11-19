@@ -36,17 +36,6 @@ status: always mid-refactor
 </tr>
 </table>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/supremeinferno/supremeinferno/output/snake-dark.svg" width="100%">
-</picture>
-
-<sub>eats my contribution graph, one commit at a time — auto-updates daily</sub>
-
-</div>
-
 <br>
 
 <div align="center">
